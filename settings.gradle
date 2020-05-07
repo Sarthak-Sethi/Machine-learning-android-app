@@ -1,0 +1,2 @@
+rootProject.name='Image Labelling (ML)'
+include ':app'
